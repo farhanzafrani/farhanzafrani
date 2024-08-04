@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Design and Fabrication of Soft assitive robotic Glove for the rehabilitation of the Stroke patients using EMG data and Machine Learning**
 
-- 🌱 I’m currently learning **ROS, and Advanced Deep learning**
+- 🌱 I’m currently learning **Advanced Deep learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Robotics Projects**
 
