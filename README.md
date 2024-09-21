@@ -81,5 +81,3 @@
 </p>
 
 ---
-
-<p align="center">📝 Check out my full resume [here](https://drive.google.com/file/d/1VNmOVGF9I9q4jizzBBVpUWvm6T46nu99/view?usp=share_link)</p>
