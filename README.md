@@ -1,30 +1,85 @@
 <h1 align="center">Hi 👋, I'm Muhammad Farhan Zafrani</h1>
-<h3 align="center">A passionate Mechanical Engineer with major in Robotics and Automation.</h3>
+<h3 align="center">💡 AI & Automation Engineer | 🚀 Robotics Enthusiast | 🔧 Mechanical Engineer | 🔍 Data Scientist</h3>
+
+<p align="center">
+  <a href="https://farhanzafrani.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20My%20Full%20Profile-%F0%9F%94%97-blue?style=for-the-badge" alt="Check My Full Profile"/>
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanzafrani&label=Profile%20views&color=0e75b6&style=flat" alt="farhanzafrani" /> </p>
 
-- 🔭 I’m currently working on **Design and Fabrication of Soft assitive robotic Glove for the rehabilitation of the Stroke patients using EMG data and Machine Learning**
+- 🔭 I’m currently working on **Automating Simulation Workflows** at **SOCO Engineers** for **BMW** Projects.
+  
+- 🌱 Constantly learning **Advanced Deep Learning**, **Computer Vision**, and pursuing the **Google Certificate in Data Analytics**.
 
-- 🌱 I’m currently learning **Advanced Deep learning**
+- 🧠 I’m passionate about **Machine Learning**, **Robotics**, **Finite Element Analysis (FEA)**, and **Control Systems**.
 
-- 👯 I’m looking to collaborate on **Machine Learning and Robotics Projects**
+- 🛠️ Love building **Simulation Models**, **Machine Learning Algorithms**, and designing **Robotics** & **Automation Systems**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/farhanzafrani](https://github.com/farhanzafrani)
+- 📝 I write about **Deep Learning**, **Transformers**, **Machine Learning** and **Computational Sciences**. Check out my blogs on [farhanzafrani.github.io](https://farhanzafrani.github.io/).
 
-- 💬 Ask me about **Robotics and Machine Learning**
+- 🌐 All of my projects are available on [GitHub](https://github.com/farhanzafrani) and my [Website](https://farhanzafrani.github.io/).
 
-- 📫 How to reach me **mfarhanzafrani@gmail.com**
+- 💬 Ask me about **Robotics**, **ML Algorithms**, **FEA**, **CFD**, **Optimization**, **Control Systems**, and **Data Science**.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VNmOVGF9I9q4jizzBBVpUWvm6T46nu99/view?usp=share_link](https://drive.google.com/file/d/1VNmOVGF9I9q4jizzBBVpUWvm6T46nu99/view?usp=share_link)
+- 📫 Reach me via: **mfarhanzafrani@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/farhan-zafrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-zafrani" height="30" width="40" /></a>
+- 🎯 Fun fact: I love exploring **Historical Events**, **Global Geopolitics**, and studying **Wars** and their **technological evolution**.
+
+---
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/solidworks.png" alt="solidworks" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Ansys_logo.svg" alt="ansys" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanzafrani&show_icons=true&locale=en&layout=compact" alt="farhanzafrani" /></p>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanzafrani&" alt="farhanzafrani" /></p>
+- 🛠️ [**Automation Workflow for Simulation**](https://github.com/farhanzafrani): Developed a Python-based workflow automating mechanical simulation processes, integrated with **BMW's engineering** pipeline.
+
+- 📊 [**Data Analytics Pipeline for Mechanical Systems**](https://github.com/farhanzafrani): Created an advanced pipeline for **finite element analysis (FEA)** data processing and visualization.
+
+- 🤖 [**Robotics Control System**](https://github.com/farhanzafrani): Designed a control algorithm for **6-DOF robotic arm**, handling dynamic control and path planning.
+
+- 🧠 [**Deep Learning for Satellite Imagery**](https://github.com/farhanzafrani): Applied **YOLOv8** for object detection and segmentation in satellite images, improving **accuracy** by 15%.
+
+- 💻 [**Python Playlist for Data Science & ML**](https://github.com/farhanzafrani): Comprehensive tutorials covering **Python programming**, **data science**, **ML**, and **AI** concepts.
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanzafrani&show_icons=true&locale=en&layout=compact" alt="farhanzafrani" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanzafrani&" alt="farhanzafrani" />
+</p>
+
+---
+
+<h2 align="center">👥 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/farhan-zafrani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-zafrani" height="30" width="40" /></a>
+  <a href="mailto:mfarhanzafrani@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">📝 Check out my full resume [here](https://drive.google.com/file/d/1VNmOVGF9I9q4jizzBBVpUWvm6T46nu99/view?usp=share_link)</p>
