@@ -38,7 +38,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/solidworks.png" alt="solidworks" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Ansys_logo.svg" alt="ansys" width="40" height="40"/> 
+  <img src="https://commons.wikimedia.org/wiki/File:Ansys_logo_(2019).svg" alt="ansys" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
